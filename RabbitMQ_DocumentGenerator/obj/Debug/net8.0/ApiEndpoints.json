@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "RabbitMQ_DocumentGenerator.Controllers.TestApiController",
+    "Method": "Index",
+    "RelativePath": "api/TestApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "RabbitMQ_DocumentGenerator.Controllers.TestApiController\u002BRequestModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

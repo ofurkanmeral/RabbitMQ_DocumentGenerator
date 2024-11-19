@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tVagnxVH+tgR4WXAvy8yuQUNqnC7K+qakWhWvXybQ6k=",
+  "Source": "RabbitMQ_DocumentGenerator",
+  "BasePath": "_content/RabbitMQ_DocumentGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
